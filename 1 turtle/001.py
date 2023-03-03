@@ -11,6 +11,7 @@ def walk(x,y):
     tao.pendown()
 
 tao = turtle.Pen()
+tao.speed(0)
 screen = turtle.Screen()
 tao.shape('turtle')
 tao.color('white','lightblue')
