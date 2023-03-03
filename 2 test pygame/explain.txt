@@ -1,0 +1,8 @@
+require - Pygame
+        - Python
+
+how to
+    1.open terminal window
+    2.cd (change directory) to game directory
+    3.key 'py gamefilename.py'
+    4.let play game
